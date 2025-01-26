@@ -1,7 +1,7 @@
 ## Hi there 👋
-⚡> I'm a 19 year old junior dev  
-⚡> html, css, java script  
+⚡> html, css, java script 
 ⚡> database etc  
+⚡> junior dev 
 <!--
 **sx7ngoated/sx7ngoated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
