@@ -1,5 +1,5 @@
 ## Hi there 👋
-⚡> I'm 19 year old jonior dev  
+⚡> I'm a 19 year old junior dev  
 ⚡> html, css, java script  
 ⚡> database etc  
 <!--
