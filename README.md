@@ -1,7 +1,7 @@
 ## Hi there 👋
-> I'm 19 year old jonior dev
-> html, ccs, java script
-> database etc
+> I'm 19 year old jonior dev  
+> html, ccs, java script  
+> database etc  
 <!--
 **sx7ngoated/sx7ngoated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
