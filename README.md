@@ -1,5 +1,5 @@
 ## Hi there 👋
-⚡> html, css, java script 
+⚡> html, css, java script   
 ⚡> database etc  
 ⚡> junior dev 
 <!--
