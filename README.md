@@ -1,7 +1,7 @@
 ## Hi there 👋
-⚡> simple text
-⚡> simple text 
-⚡> simple text 
+⚡> simple text  
+⚡> simple text   
+⚡> simple text  
 <!--
 **sx7ngoated/sx7ngoated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
